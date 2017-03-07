@@ -1,0 +1,385 @@
+body,div,p,ul,input{
+	margin: 0;
+	padding: 0;
+}
+ul,li{
+    list-style: none;
+}
+a{
+    color: #7a8698;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline
+}
+body{
+	background: #1691D7;
+    font-family: Verdana;
+    font-size: 12px;
+    color: #7a8698;
+    background-image: url("../img/all4.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment:fixed ;
+}
+.top{
+	height: 45px;
+	background: #0B496C;
+    z-index: 99;
+    position: relative;
+}
+.top div{
+	width: 680px;
+	margin: 0 auto;
+
+}
+.top img{
+	float: left;
+    margin-top: 9px;
+}
+.top p{
+	float:right;
+    line-height: 45px;
+    word-spacing: 16px;
+}
+.top s{
+    background: url("../img/new.png");
+    width: 19px;
+    height: 12px;
+    margin-left: 380px;
+    margin-top: 4px;
+    position: absolute;
+}
+.main{
+	width: 680px;
+	margin: 0 auto;
+}
+.main-title{
+	width: 298px;
+	height: 26px;
+	background: url("../img/logo_v2.png") ;
+	background-position: 0px -64px;
+    margin-bottom: 50px;
+}
+.login{
+    width: 680px;
+    height: 345px;
+    position:fixed;
+    top: 30%;
+    bottom: 30%;
+    z-index: 5;
+}
+.arrows{
+    background-image: url("../img/arr.png");
+    width: 16px;
+    height: 24px;
+    margin-left: -15px;
+    margin-top: 30px;
+    position: absolute;
+    z-index: 6;
+}
+.t126 .arrows{
+    margin-top: 117px;
+}
+.tyeah .arrows{
+    margin-top: 204px;
+}
+.tphone .arrows{
+    margin-top: 290px;
+}
+.email-type{
+    width: 219px;
+    height: 345px;
+    float: left;
+    border-right: solid 1px #bbc4cb;
+}
+.email-type li{
+    width: 219px;
+    height: 85px;
+    line-height: 86px;
+    border-bottom: solid 1px #dbe3e8;
+}
+.email-type li:hover{
+    background:#b3dbf1;
+}
+.hyaline{
+    filter:alpha(opacity=50);
+    -moz-opacity:0.5;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+}
+.choose {
+    background: white;
+}
+.email-type s{
+    margin-top: 28px;
+    margin-left: 48px;
+}
+.icon{
+    background-image: url("../img/logo_v2.png");
+    display: inline-block;
+}
+.icon-163{
+    width: 136px;
+    height: 32px;
+    background-position: 0 0;
+}
+.icon-126{
+    width: 136px;
+    height: 32px;
+    background-position: -145px 0px;
+}
+.icon-yeah{
+    width: 136px;
+    height: 30px;
+    background-position: 0px -33px;
+}
+.icon-pnhone{
+    width: 144px;
+    height: 36px;
+    background-position: 0px -89px;
+}
+#login{
+    width: 460px;
+    height: 345px;
+    background: white;
+    float: right;
+}
+.t126{
+    color: #4c8057;
+}
+.tyeah{
+    color: #707070;
+}
+h2{
+    margin-top: 30px;
+    background: url("../img/bg_v3.png");
+    height: 20px;
+    margin-left: 60px;
+}
+.t126 h2{
+    background-position:-175px 0px;
+}
+.tyeah h2{
+    background-position:-176px -34px;
+    width: 178px;
+}
+.tphone h2{
+    background-position:0px -262px;
+    width: 166px;
+}
+.title-163{
+    background-position: 0 0;
+    width: 168px;
+}
+.title-126{
+    background-position:-175px 0px;
+}
+.title-yeah{
+    background-position:-176px -34px;
+    width: 178px;
+}
+.title-phone{
+    background-position:0px -262px;
+    width: 166px;
+}
+.small-title-phone{
+    display: none;
+}
+.tphone .small-title-phone{
+    display: block;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -35px;
+    background-color: #4793e5;
+    color: white;
+    height: 20px;
+    border-radius: 4px;
+    line-height: 20px;
+}
+.input-box{
+    width: 342px;
+    height: 48px;
+    border: 1px solid;
+    border-radius: 3px;
+    margin-top: 25px;
+    background: white;
+    margin-left: 60px;
+    font-weight: bold;
+}
+.t126 .input-box{
+    border-color: #b5cdaa;
+}
+.tyeah .input-box{
+    border-color: #c9c9c9;
+}
+.input{
+    width:234px ;
+    height: 48px;
+    border-style: none;
+    background: #ecf5fa;
+    text-indent: 10px;
+    font-size: 14px;
+}
+.phone-hint{
+    display: none;
+}
+.tphone .phone-hint{
+    display: inline;
+}
+
+.phone-icon{
+    display: none;
+}
+.t126 .input{
+    background-color: #eff5eb;
+}
+.yeah .input{
+    background-color: #f1f1f1;
+}
+.tphone .input{
+    background-color: #ecf5fa;
+}
+.tphone .username{
+    width: 342px;
+    text-indent: 35px;
+}
+.tphone .hint{
+    display: none;
+}
+.tphone .phone-hint{
+    display: inline;
+    /*background: #000;*/
+    position: absolute;
+    margin-top: -33px;
+    margin-left: 40px;
+    font-size: 14px;
+}
+.tphone .phone-icon{
+    width: 16px;
+    height: 23px;
+    background-image:url("../img/bg_v3.png");
+    background-position:-176px -262px;
+    display: block;
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 13px;
+}
+.no-phone-email{
+    margin-left: 60px;
+    margin-bottom: 0px;
+}
+.no-phone-email a{
+    margin-right: 60px;
+    float: right;
+    color:#217dd9 ;
+}
+.t126 .no-phone-email a{
+    color: #01ab1d;
+}
+.tyeah .no-phone-email a{
+    color: #dc1f26;
+}
+.phone-login{
+    display: none;
+}
+.tphone .phone-login{
+    margin-top: -20px;
+    margin-left: 60px;
+    display: inline;
+}
+.tphone .phone-login a{
+    color: #2475b5;
+}
+.tphone .no-phone-email{
+    display: none;
+}
+.email-name{
+    font-size: 12px;
+    padding-left: 10px;
+}
+.tphone .email-name{
+    display: none;
+}
+.hight{
+    margin-top: 10px;
+}
+.yiwen{
+    width: 14px;
+    height: 14px;
+    background: url("../img/bg_v3.png");
+    background-position: -338px -64px;
+    display: inline-block;
+}
+.t126 .yiwe{
+    background-position: -336px -82px;
+}
+.tyeah .yiwe{
+    background-position: -336px -98px;
+}
+.tphone .yiwe{
+    background-position: -336px -114px;
+}
+
+.btn-login{
+    width: 104px;
+    height: 42px;
+    background: url("../img/bg_v3.png");
+    background-position: 0 -64px;
+    float: right;
+    margin-top: 4px;
+    border-style: none;
+}
+.btn-login:hover{
+    background-position: -112px -64px;
+}
+.t126 .btn-login{
+    background-position: 0px -112px;
+}
+.t126 .btn-login:hover{
+    background-position: -112px -112px;
+}
+.tyeah .btn-login{
+    background-position: 0px -160px;
+}
+.tyeah .btn-login:hover{
+    background-position: -112px -160px;
+}
+.tphone .btn-login{
+    background-position: 0px -208px;
+}
+.tphone .btn-login:hover{
+    background-position: -112px -208px;
+}
+.tuiguang{
+    position: absolute;
+    bottom: 50px;
+
+}
+.tuiguang li{
+    float: left;
+    padding-right: 180px;
+    z-index: 1;
+}
+.tuiguang a{
+    color: white;
+}
+.bottom{
+    height: 45px;
+    background: #73bde7;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+    z-index: 1;
+}
+.bottom-p{
+    white-space: nowrap;
+    word-wrap: break-word;
+    width: 810px;
+    margin: 0 auto;
+    word-spacing: 16px;
+    line-height: 45px;
+}
+
+
+

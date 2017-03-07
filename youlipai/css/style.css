@@ -1,0 +1,87 @@
+/*测试*/
+.ko{width: 200px;height: 500px;background: red;}
+
+/*样式重置*/
+body{font-family: Verdana, Microsoft YaHei, Simsun, sans-serif;position: relative;box-sizing: border-box;}
+img{display: block;margin: 0 auto;}
+/*导航*/
+.nav-h{height: 86px;border: none;line-height: 86px;background-color: rgba(0, 0, 0, 0.027451);}
+.nav-w{max-width: 1000px;margin: 0 auto;}
+.nav-h li a{height: 86px;line-height:56px;font-size: 16px;}
+.nav-h>a>img{padding: 8px 0;}
+.nva-h .navbar-nav>li>a:focus,.nav-h .navbar-nav>li>a:hover{color:#e50065; }
+.nav-h .navbar-nav>.active>a{background: none;color: #e50065;}
+
+.contact>li>a:focus,.contact>li>a:hover{color: #fff;background:#e50065; }
+.navbar-button{background: none;border-style: none;height: 36px;margin: 25px 20px;}
+.nav-h .navbar-button:focus,.nav-h .navbar-button:hover{background: none;}
+.nav-h .navbar-button .icon-bar{background: #e50065;}
+/*div1*/
+
+.one1{background: url("../img/top-banner.jpg" ) no-repeat;margin: 0 auto;height: 800px;width: 1920px;}
+.about-bg{background: url("../img/bannerA02.jpg") no-repeat;width: 1920px;height: 518px;}
+.about-color{background: #f7f7f7;}
+.one1 h3{padding-top: 200px;margin: 0 auto;font-size: 30px;font-weight: 500;text-align: center;}
+.one1 p{margin-top: 50px;font-size: 16px;color: #666;}
+.my-btn{background: url("../img/rectangle.png");width: 196px;height: 45px;border: none;margin:0 auto;display: block;margin-top: 80px;color: #fff;}
+.my-btn:hover,.my-btn:visited,.my-btn:active{background:url("../img/rectangle.png");border-style: none;}
+
+
+.one2{width: 1920px;height: 750px;margin: 0 auto;}
+.one21{background: url("../img/banner-1.jpg");}
+.one22{background: url("../img/banner-2.jpg");}
+.one23{background: url("../img/banner-3.jpg");}
+.one24{background: url("../img/banner-4.jpg");}
+.carousel-indicators ol{width: 120px;height: 500px;}
+.carousel-indicators li{width: 90px;height: 90px;border-radius: 90px/90px;background: #fff;border: none;text-align: center;line-height: 90px;text-indent: 0px;font-size: 16px;margin: 20px;}
+.carousel-indicators .active {  width: 90px;height: 90px;border-radius: 90px/90px;background:#e50065;color: #fff; margin: 20px; }
+.one2 h6{font-size: 50px;color: #fff;margin: 0 auto;text-align: center;padding-top: 80px; }
+.one2 p{font-size: 16px;text-align: center;color: #fff;padding-top: 10px;}
+
+.one3{margin: 0 auto;text-align: center;height: 800px;}
+.one3 h4{font-size: 40px;padding-top: 80px;}
+.one3-p{font-size: 20px;padding: 15px;}
+.one3 li{list-style: none;display: inline-block;width: 300px;height: 280px;padding: 15px 15px;}
+.one3 h6{font-size: 20px;padding: 20px 0;}
+
+.one4{background: #f8f8f8;text-align: center; box-sizing: border-box;}
+.one4 h4{font-size: 40px;padding-top: 80px;}
+.one4 li{list-style: none;display: inline-block;width: 300px;height: 400px;padding: 60px 15px 15px 15px;}
+.one4 h6{font-size: 16px;    color: #e50065}
+.one4-news{height: 600px;}
+.one4-news-left{float: left;margin-top: 160px;}
+.one4-news-right{float: right;margin-top: 160px;}
+.one4-news>ul{width: 900px;float: left;display: inline-block;padding: 0;}
+.one4-news>ul>li{width: 280px;height:300px; padding: 10px;float: left;margin: 10px;}
+.one4-news>ul>li>img{display: inline-block;width: 280px;height: 160px;background: no-repeat;}
+
+.bottom{text-align: center;padding-bottom:100px;position: relative;}
+.bottom h6{font-size: 30px;padding: 40px 0;}
+.bottom p{color:#939393;}
+.bottom img{padding-top:20px;}
+.bottom a{font-weight:700;color: #666;}
+#erweima{background: url("../img/erweima3.png");width: 264px;height: 272px;display: none;position: absolute;left:50%;margin-left:-132px;margin-top: -260px;}
+
+/*附加导航样式*/
+ul.nav-tabs{  width: 160px;  margin-top: 100px;  background: none;}
+ul.nav-tabs li{  margin: 0;  height: 64px;  border-top: solid 1px #ddd;  }
+ul.nav-tabs li:first-child{  border-style: none;  }
+ul.nav-tabs li a{  line-height: 64px;  margin: 0;  height: 64px;  padding: 0;  font-size: 16px;  color: #333;  background: none;  border-style: none;  }
+ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover{  color: #e50065;  background: none;  border-style: none;  }
+ul.nav-tabs li:first-child a{  }
+ul.nav-tabs li:last-child a{  }
+ul.nav-tabs.affix{  top: 30px; /* Set the top position of pinned element */  }
+.minor-nav>ul{border-style: none;}
+.minor-nav{border-style: none;}
+.minor-nav .nav-tabs>li>a:hover{background: none;}
+.minor-nav>li>a:hover{background: none;}
+
+
+/*登陆页面*/
+.login{border-style: none;background: #fff;margin-bottom: 0;}
+.login .navbar-header>a{padding: 0;}
+.login img{height: 100%;}
+.login-top{background: #2d005b;height: 603px;}
+.l-center{background: url("../img/weiXinPay01.jpg") no-repeat;height:603px;width: 1065px; margin: 0 auto;float: left;}
+.login-message{display: inline-block;float: left;border:solid 1px #fff;border-radius: 6px;background: #fff;padding: 10px;}
+.login-message p{border-bottom: solid 1px #ccc;color: #666;font-size: 18px;}

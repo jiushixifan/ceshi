@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>有礼派—服务美妆门店的互联网平台</title>
+    <link rel="icon" href="./img/favicon1.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<nav class="navbar navbar-default navbar-fixed-top nav-h" role="navigation" >
+    <div class="container-fluid nav-h nav-w">
+        <div class="navbar-header nav-h">
+            <a class="navbar-brand nav-h" href="#"><img src="./img/logo.png" class="img-responsive"></a>
+        </div>
+        <div class="">
+            <ul class="nav navbar-nav navbar-right ">
+                <li><a href="./index.html" class="active">首页</a></li>
+                <li><a href="about.html">我们</a></li>
+                <li><a href="product.html">产品</a></li>
+                <li><a href="#">拼单商城</a></li>
+                <li><a href="#">案列</a></li>
+                <li><a href="#">新闻</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        联系<b class="caret"></b>
+                    </a>
+
+                    <ul class="dropdown-menu">
+                        <li><a href="#">联系我们</a></li>
+                        <li><a href="#">加入我们</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">帮助</a></li>
+                <li><a href="login.html">登陆/注册</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="top-bg ">
+    <div class="one1 about-bg">
+        <h3 class="nav-w">关于我们</h3>
+        <h3 class="nav-w">ABOUT US</h3>
+    </div>
+</div>
+<div class="about-color">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xs-3 minor-nav" id="myScrollspy">
+                <ul class="nav nav-tabs nav-stacked" data-spy="affix" data-offset-top="125">
+                    <li class="active"><a href="#section-1">派啊</a></li>
+                    <li><a href="#section-2">六大系统</a></li>
+                </ul>
+            </div>
+            <div class="col-xs-9">
+                <h2 id="section-1">派啊</h2>
+                <p>一款会帮你赚钱的美妆掌上工具</p>
+                <p>一键获取身边助手</p>
+                <img src="./img/first.png" alt="">
+                <p>高效的营销管理 丰富的跨界资源整合</p>
+                <p>集市场热门营销活动、微信服务为一体，整合跨界营销资源，帮助传统美妆店嫁接营销，打通线上线下，完成闭环。简便操作，让营销变得简单。</p>
+                <img src="img/second.png" alt="">
+                <hr>
+                <h2 id="section-2">发展历程</h2>
+                <lu>
+                    <li>
+                        <h4>2016年5月17日，宣布并购万信达</h4>
+                        <p>举办“有礼派战略并购万信达媒体发布会”</p>
+                    </li>
+
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                    <li>2016年5月17日，宣布并购万信达</li>
+                </lu>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bottom">
+    <h6>联系我们</h6>
+    <p ><span class="glyphicon glyphicon-phone-alt"></span>400-777-0989</p>
+    <div id="erweima"></div>
+    <img src="img/weixin.png" alt="" class="weixin">
+    <img src="img/beiantubiao.png" alt="">
+    <p>粤公网安备 44010602000362号    粤ICP备14091305号</p>
+    <p>Copyright© 2016 YOLIPAI All Rights Reserved</p>
+    <p>友情链接：<a href="">万信达官网</a></p>
+</div>
+</body>
+</html>

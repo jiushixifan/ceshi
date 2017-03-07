@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>网易免费邮箱 - 中国第一大电子邮件服务商</title>
+		<link rel="icon" href="img/favicon.ico">
+		<link rel="stylesheet" type="text/css" href="css/e-mail.css">
+	</head>
+	<body id="onresize" onload="lodading()">
+		<div class='top'>
+			<div>
+				<img src="img/ntes_logo.png">
+				<p>
+					<a href="">收费邮</a>
+					<a href="">企业邮箱</a>
+					<a href="">国外用户登录</a>
+					<a href="">学生用户登录</a>
+					<a href="">手机客户端</a>
+					<a href="">帮助</a>
+					<a href="">呼叫小易</a>
+				</p>
+				<s></s>
+			</div>
+		</div>
+		<div class="main">
+			<h1 class="main-title"></h1>
+			<div class="login ">
+				<div class="email-type">
+					<ul class="youxiang">
+						<li class="choose" id="li-163" style="border-top: none"><s class="icon-163 icon" data-email="163.com"></s></li>
+						<li class="choose hyaline"  id="li-126"><s class="icon-126 icon"></s></li>
+						<li class="choose hyaline" id="li-yeah"><s class="icon-yeah icon"></s></li>
+						<li class="choose hyaline" id="li-phone"><s class="icon-pnhone icon"></s></li>
+					</ul>
+				</div>
+				<div class="box" id="login" >
+                    <s class="arrows"></s>
+                        <h2 class="title-163"></h2>
+						<a href="" class="small-title-phone">手机号码邮箱可直接登录易信</a>
+						<form class="from-163">
+                        <div class="input-box">
+                            <label for="username">
+                             <s class="phone-icon"></s>
+                            <input type="text" class="username input" value="" id="username"/>
+                            <label style="position: absolute;margin-left: -225px;font-size: 14px;margin-top: 15px;" id="hint1" class="hint">账号或手机号</label>
+                            <label class="phone-hint" id="hint3">请输入手机号码</label>
+                            </label>
+                            <b class="email-name">@163.com</b>
+                        </div>
+                        <div class="input-box" >
+                            <label for="password">
+                            <input type="password" class="password input" value="" id="password"/>
+                            <label style="position: relative; margin-left: -225px;font-size: 14px" id="hint2">密码</label>
+                            </label>
+                            <button  class="btn-login" type="submit"></button>
+                        </div>
+                        <div class="hight">
+                            <label><input type="checkbox" style="margin-left: 60px"  checked="checked">记住帐号</label>
+                            <label style="margin-left: 50px;"><input type="checkbox"  checked="checked">SSL安全登录</label>
+                            <s class="yiwen"></s>
+                            <a href="#" style="float: right;margin-right: 60px;">忘记密码?</a>
+                        </div>
+                        <hr style="margin-top: 15px;margin-bottom: 15px;margin-left: 60px;width: 340px" >
+                        <div class="no-phone-email">
+                            <span >邮箱版本: </span>
+                            
+                            <select name="" id=""  style="border-style: none">
+                                <option value="" >默认版本</option>
+                                <option value="">网易邮箱6.0</option>
+                                <option value="">网易邮箱6.0简约版</option>
+                            </select>
+                            <a href="#">注册网易免费邮箱</a>
+                        </div>
+                        <div class="phone-login">
+                            <span  class="nophone">还没有网易手机号码邮箱?</span><a href=""  class="activate">免费激活</a>
+                        </div>
+                    </form>
+                </div>
+                <a href="#" ><img src="img/mailapp_logo_141212.png" alt="" style="position: absolute; margin-top: 290px;margin-left: 60px;"></a>
+			</div>
+
+            <hr style="position: absolute;bottom: 65px;width: 680px;z-index: 1"  class="line">
+            <ul class="tuiguang">
+                <li><a href="">·推广1</a></li>
+                <li><a href="">·推广2</a></li>
+                <li><a href="">·推广3</a></li>
+            </ul>
+		</div>
+        <div class="bottom">
+            <p  class="bottom-p">
+                <a href="http://www.baidu.com">网易首页</a>
+                <a href="#">关于网易免邮费</a>
+                <a href="#">一元夺宝</a>
+                <a href="#">网易有钱</a>
+                <a href="#">网易严选</a>
+                <a href="#">网易一起拼</a>
+                <a href="#">隐私政策</a>
+                <span style="font-size: 12px"> | 网易公司版权所有©1997-2016 </span>
+                <img src="img/knet.png" alt="" style="float: right;margin-top: 15px">
+            </p>
+        </div>
+	</body>
+
+    <script type="text/javascript">
+
+        document.getElementsByClassName('username')[0].focus();
+//        隐藏输入提示
+        document.getElementsByClassName('username')[0].onkeydown=function () {
+            document.getElementsByClassName('username')[0].oninput=function () {
+                if((document.getElementsByClassName('username')[0].value==0)){
+                    switch (document.getElementById('login').className){
+                        case 'box' :
+                        case  't126':
+                        case 'tyeah':
+                            document.getElementById('hint1').style.display="inline";
+                            document.getElementsByClassName('phone-hint')[0].style.display="noneline";
+                            break;
+                        case 'tphone':
+                            document.getElementsByClassName('phone-hint')[0].style.display="inline";
+                            document.getElementById('hint1').style.display="none";
+                            break;
+                    }
+                }else {
+                document.getElementById('hint1').style.display="none";
+                document.getElementById('hint3').style.display="none";
+                }
+            }
+        };
+
+
+    function changeInput() {
+        document.getElementsByClassName('username')[0].focus();
+            document.getElementById('hint1').style.display = "none";
+            document.getElementById('hint3').style.display = "none";
+            if (document.getElementsByClassName('username')[0].value == 0) {
+                switch (document.getElementById('login').className) {
+                    case 'box' :
+                    case  't126':
+                    case 'tyeah':
+                        document.getElementById('hint1').style.display = "inline";
+                        document.getElementsByClassName('phone-hint')[0].style.display = "none";
+                        break;
+                    case 'tphone':
+                        document.getElementsByClassName('phone-hint')[0].style.display = "inline";
+                        document.getElementById('hint1').style.display = "none";
+                        break;
+                }
+            } else {
+                document.getElementById('hint1').style.display = "none";
+                document.getElementById('hint3').style.display = "none";
+            }
+
+    }
+
+        document.getElementsByClassName('password')[0].onkeydown=function () {
+
+            document.getElementsByClassName('password')[0].oninput=function () {
+                if (document.getElementsByClassName('password')[0].value==0){
+                    document.getElementById('hint2').style.display="inline";
+                }
+                else {
+                    document.getElementById('hint2').style.display="none";
+                }
+            }
+        };
+
+//        改变邮箱登陆类型
+        var t163=document.getElementById('li-163');
+        t163.onclick=function () {
+            document.getElementById('login').className='box';
+            document.getElementsByClassName('email-name')[0].innerHTML="@163.com";
+            setColor(t163);
+//            changeInput();
+        };
+        var t126=document.getElementById('li-126');
+        t126.onclick=function () {
+            document.getElementById('login').className='t126';
+            document.getElementsByClassName('email-name')[0].innerHTML="@126.com";
+            setColor(t126);
+            changeInput();
+        };
+
+        var yeah=   document.getElementById('li-yeah');
+        yeah.onclick=function () {
+            document.getElementById('login').className='tyeah';
+            document.getElementsByClassName('email-name')[0].innerHTML="@yeah.net";
+            setColor(yeah);
+            changeInput();
+        };
+        var phone=   document.getElementById('li-phone');
+        phone.onclick=function () {
+            document.getElementById('login').className='tphone';
+            setColor(phone);
+//            changeInput();
+        };
+//        切换邮箱类型时改变被选中邮箱类型的颜色
+        function setColor(e) {
+            document.getElementById('li-163').className='choose hyaline';
+            document.getElementById('li-126').className='choose hyaline';
+            document.getElementById('li-yeah').className='choose hyaline';
+            document.getElementById('li-phone').className='choose hyaline';
+            e.className='choose';
+        }
+//    加载页面时根据窗口大小控制元素显示
+    function lodading() {
+        resizeWindow();
+//        改变窗口大小适当隐藏元素
+        window.onresize = function(){
+            resizeWindow();
+        }
+    }
+//        计算窗口大小并改变元素
+    function resizeWindow() {
+        var height=document.documentElement.clientHeight;
+        if (height<290){
+            document.getElementsByTagName('h1')[0].style.display='none';
+        }
+        if (height<596){
+            document.getElementsByClassName('tuiguang')[0].style.display='none';
+            document.getElementsByClassName('bottom')[0].style.display='none';
+            document.getElementsByClassName('line')[0].style.display='none';
+        }else {
+            document.getElementsByTagName('h1')[0].style.display='block';
+            document.getElementsByClassName('tuiguang')[0].style.display='inline';
+            document.getElementsByClassName('bottom')[0].style.display='inline';
+            document.getElementsByClassName('line')[0].style.display='inline';
+        }
+    }
+    </script>
+</html>

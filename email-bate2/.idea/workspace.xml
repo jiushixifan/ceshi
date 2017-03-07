@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b382b42c-a462-4e4e-ad89-2908e99bac2a" name="Default" comment="" />
+    <ignored path="new.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="new" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="e-mail.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="e#1843#1891#0" expanded="false" />
+                <element signature="e#1897#1976#0" expanded="false" />
+                <element signature="e#1986#2055#0" expanded="false" />
+                <element signature="e#2065#2141#0" expanded="false" />
+                <element signature="e#2152#2227#0" expanded="false" />
+                <element signature="e#2240#2315#0" expanded="false" />
+                <element signature="e#2465#2572#0" expanded="false" />
+                <element signature="e#2581#2620#0" expanded="false" />
+                <element signature="e#2630#2689#0" expanded="false" />
+                <element signature="e#2700#2757#0" expanded="false" />
+                <element signature="e#2768#2819#0" expanded="false" />
+                <element signature="e#2830#2869#0" expanded="false" />
+                <element signature="e#2881#2940#0" expanded="false" />
+                <element signature="e#2953#3010#0" expanded="false" />
+                <element signature="e#3029#3051#0" expanded="false" />
+                <element signature="e#3078#3286#0" expanded="false" />
+                <element signature="e#3297#3474#0" expanded="false" />
+                <element signature="e#3491#3521#0" expanded="false" />
+                <element signature="e#3539#3569#0" expanded="false" />
+                <element signature="e#3576#3708#0" expanded="false" />
+                <element signature="e#3982#4026#0" expanded="false" />
+                <element signature="e#4040#4062#0" expanded="false" />
+                <element signature="e#4082#4223#0" expanded="false" />
+                <element signature="e#4243#4455#0" expanded="false" />
+                <element signature="e#5381#5558#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e-mail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/e-mail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/e-mail.css" />
+        <option value="$PROJECT_DIR$/e-mail.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1273" />
+    <option name="width" value="1294" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email-bate2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email-bate2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jiush\WebstormProjects\new\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jiush\WebstormProjects\new\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b382b42c-a462-4e4e-ad89-2908e99bac2a" name="Default" comment="" />
+      <created>1474381781478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474381781478</updated>
+      <workItem from="1474381782856" duration="700000" />
+      <workItem from="1474383072061" duration="1653000" />
+      <workItem from="1474448974976" duration="17904000" />
+      <workItem from="1474523105373" duration="21739000" />
+      <workItem from="1474549514648" duration="2263000" />
+      <workItem from="1474551787492" duration="2905000" />
+      <workItem from="1474620445156" duration="12188000" />
+      <workItem from="1474638868106" duration="8489000" />
+      <workItem from="1474653795433" duration="215000" />
+      <workItem from="1474655882503" duration="2690000" />
+      <workItem from="1474688236458" duration="16438000" />
+      <workItem from="1474780604611" duration="2419000" />
+      <workItem from="1474886811476" duration="2027000" />
+      <workItem from="1474973559069" duration="10949000" />
+      <workItem from="1475056689902" duration="3067000" />
+      <workItem from="1475392116116" duration="3000000" />
+      <workItem from="1475765243650" duration="249000" />
+      <workItem from="1479128696971" duration="110000" />
+      <workItem from="1480752567145" duration="134000" />
+      <workItem from="1482294567324" duration="818000" />
+      <workItem from="1482576072550" duration="188000" />
+      <workItem from="1482831894182" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110891000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22292994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16205837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e-mail.html</url>
+          <line>204</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e-mail.html</url>
+          <line>132</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="108" column="17" lean-forward="false" selection-start-line="105" selection-start-column="3" selection-end-line="108" selection-end-column="17" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="108" column="17" lean-forward="false" selection-start-line="105" selection-start-column="3" selection-end-line="108" selection-end-column="17" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="108" column="17" lean-forward="false" selection-start-line="105" selection-start-column="3" selection-end-line="108" selection-end-column="17" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2432">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2432">
+          <caret line="128" column="0" lean-forward="false" selection-start-line="128" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3648">
+          <caret line="302" column="1" lean-forward="false" selection-start-line="302" selection-start-column="1" selection-end-line="302" selection-end-column="1" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3648">
+          <caret line="302" column="1" lean-forward="false" selection-start-line="302" selection-start-column="1" selection-end-line="302" selection-end-column="1" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="108" column="1" lean-forward="false" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="8" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="108" column="1" lean-forward="false" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="8" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="108" column="1" lean-forward="false" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="8" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="77" column="84" lean-forward="false" selection-start-line="77" selection-start-column="84" selection-end-line="77" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="71" column="15" lean-forward="false" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="97" column="34" lean-forward="false" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="37" column="42" lean-forward="false" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-3.1.0.slim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo_v2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg_v3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/e-mail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#1843#1891#0" expanded="false" />
+            <element signature="e#1897#1976#0" expanded="false" />
+            <element signature="e#1986#2055#0" expanded="false" />
+            <element signature="e#2065#2141#0" expanded="false" />
+            <element signature="e#2152#2227#0" expanded="false" />
+            <element signature="e#2240#2315#0" expanded="false" />
+            <element signature="e#2465#2572#0" expanded="false" />
+            <element signature="e#2581#2620#0" expanded="false" />
+            <element signature="e#2630#2689#0" expanded="false" />
+            <element signature="e#2700#2757#0" expanded="false" />
+            <element signature="e#2768#2819#0" expanded="false" />
+            <element signature="e#2830#2869#0" expanded="false" />
+            <element signature="e#2881#2940#0" expanded="false" />
+            <element signature="e#2953#3010#0" expanded="false" />
+            <element signature="e#3029#3051#0" expanded="false" />
+            <element signature="e#3078#3286#0" expanded="false" />
+            <element signature="e#3297#3474#0" expanded="false" />
+            <element signature="e#3491#3521#0" expanded="false" />
+            <element signature="e#3539#3569#0" expanded="false" />
+            <element signature="e#3576#3708#0" expanded="false" />
+            <element signature="e#3982#4026#0" expanded="false" />
+            <element signature="e#4040#4062#0" expanded="false" />
+            <element signature="e#4082#4223#0" expanded="false" />
+            <element signature="e#4243#4455#0" expanded="false" />
+            <element signature="e#5381#5558#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#label#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#1;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
